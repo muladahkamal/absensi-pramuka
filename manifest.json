@@ -10,12 +10,21 @@
   {
    "src": "IMG_2182.png",
    "sizes": "192x192",
-   "type": "image/png"
+   "type": "image/png",
+   "purpose": "any maskable"
   },
   {
    "src": "IMG_2183.png",
    "sizes": "512x512",
-   "type": "image/png"
+   "type": "image/png",
+   "purpose": "any maskable"
   }
- ]
+ ],
+ "id": "./",
+ "lang": "id",
+ "orientation": "portrait",
+ "categories": [
+  "education"
+ ],
+ "description": "Sistem absensi Pramuka berbasis QR Code dan validasi lokasi."
 }
